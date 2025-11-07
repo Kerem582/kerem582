@@ -1,9 +1,9 @@
-## 👋 About Me  
-**Full-Stack Developer & UI/UX Designer**  
-Passionate about crafting modern, efficient, and elegant digital experiences using **C++**, **Unreal Engine 5**, and **web technologies**.  
-I focus on clean interfaces and robust backend systems to deliver meaningful user interactions.  
+About Me
+Full-Stack Developer & UI/UX Designer
 
----
+I specialize in creating elegant digital experiences where technology and design meet. I focus on building intuitive, beautiful interfaces backed by robust backend systems.
+
+From wireframes to functional code, I manage the entire development lifecycle using modern web technologies like JavaScript, Node.js, and PHP to deliver meaningful user interactions.
 
 ### 🧠 Tech Stack  
 
@@ -14,9 +14,8 @@ I focus on clean interfaces and robust backend systems to deliver meaningful use
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="UE5"/>
+  
 </p>
 
 ---
