@@ -5,7 +5,7 @@ I specialize in creating elegant digital experiences where technology and design
 
 From wireframes to functional code, I manage the entire development lifecycle using modern web technologies like JavaScript, Node.js, and PHP to deliver meaningful user interactions.
 
-### 🧠 Tech Stack  
+### 🧠 Core Web Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
@@ -15,9 +15,15 @@ From wireframes to functional code, I manage the entire development lifecycle us
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
   
 </p>
+
+### Other Skills 
+<p align="center"> 
+ <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
 
 ---
 
