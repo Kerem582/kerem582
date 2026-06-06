@@ -1,4 +1,4 @@
-# Kerem Yılmaz — Data Analyst & ML Enthusiast
+# Mehmet Kerem Usta — Data Analyst & ML Enthusiast
 
 Statistics student at Yıldız Technical University with a focus on 
 data analysis, machine learning, and data engineering.
